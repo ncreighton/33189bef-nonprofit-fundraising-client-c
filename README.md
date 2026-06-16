@@ -1,2 +1,28 @@
-# 33189bef-nonprofit-fundraising-client-c
-Stop losing donor relationships in scattered spreadsheets and missed follow-ups. Your nonprofit's fundraising pipeline deserves a single, automated home.  This Notion template replaces messy spreadsheets and sticky notes with a centralized CRM that tracks every client interaction, automates follow-up reminders, and visualizes your pipeline. It's bu
+# Nonprofit Fundraising Client CRM and Pipeline Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ7sLfXx5wg8FG6fyd0j3V)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ7sLfXx5wg8FG6fyd0j3V)
+
